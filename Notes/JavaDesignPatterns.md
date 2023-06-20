@@ -57,4 +57,8 @@
 	3.  should be east to read  
 	1.  create a class with constructor to initalize paramters, create builder class with getters and setter for all parameters indvidually and create a build method that returns the class being build
 5.  **Prototype**
-
+    1. Lets you copy existing objects, without depending on their classes 
+       1. only reliant on interface
+          1. "clone interface" 
+    2.  Useful in testing and pre-production 
+    3.  
